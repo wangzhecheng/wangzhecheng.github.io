@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Publications by Topics
+======
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+For distributed renewable energy
+---------------
+
+* DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States
+
+Jiafan Yu\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2018). **Joule**. (\* Equal contribution) [(link)](https://doi.org/10.1016/j.joule.2018.11.021)
