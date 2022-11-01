@@ -14,6 +14,7 @@ My research aims to **bridge the data gap** with machine learning and **distill 
 
 Previously, I received my M.S. degree in Mechanical Engineering from [Stanford University](https://www.stanford.edu/) in 2018, and my Bachelor's degree in Energy and Power Engineering from Tsinghua University in 2016. 
 
+Email: zhecheng (at) stanford (dot) edu
 
 Research Interests
 ======
