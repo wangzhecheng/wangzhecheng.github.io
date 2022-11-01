@@ -9,7 +9,7 @@ author_profile: true
 For distributed renewable energy
 ---------------
 
-**Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
+* **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
 [(link)](https://doi.org/10.1016/j.joule.2022.09.011)
