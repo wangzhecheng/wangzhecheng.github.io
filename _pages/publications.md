@@ -8,6 +8,21 @@ author_profile: true
 
 For distributed renewable energy
 ---------------
+
+**Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
+DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
+**Joule**. 
+[(link)](https://doi.org/10.1016/j.joule.2022.09.011)
+    
+* **Zhecheng Wang**, Chad Zanocco, Rajanie Prabha, Moritz Wussow, Arun Majumdar, and Ram Rajagopal. 
+Heterogeneous Effects of Financial Incentives on Solar Adoption in the United States. 
+Working paper.
+    
+* Kevin Mayer, Benjamin Rausch, Marie-Louise Arlt, Gunther Gust, **Zhecheng Wang**, Dirk Neumann, and Ram Rajagopal (2022). 
+3D-PV-Locator: Large-Scale Detection of Rooftop-Mounted Photovoltaic Systems in 3D. 
+**Applied Energy**.  
+[(link)](https://www.sciencedirect.com/science/article/pii/S0306261921016937)
+    
 * Kevin Mayer, **Zhecheng Wang**, Marie-Louise Arlt, Dirk Neumann, and Ram Rajagopal (2020). 
 DeepSolar for Germany: A Deep Learning Framework for PV System Mapping from Aerial Imagery. 
 **International Conference on Smart Energy Systems and Technologies (SEST)**. 
@@ -37,6 +52,16 @@ DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deploym
 For electrical grid infrastructure
 ---------------
 
+* **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2022). 
+Geospatial Mapping of Distribution Grid with Machine Learning and Multi-Modal Open Data. 
+Under review, 2022. 
+(manuscript available upon request)
+
+* **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2022). 
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
+ In submission, 2022. 
+(manuscript available upon request)
+    
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
 Fine-Grained Distribution Grid Mapping Using Street View Imagery.
 **NeurIPS Tackling Climate Change with Machine Learning Workshop**. (\* Equal contribution)
@@ -51,6 +76,21 @@ Machine Learning for AC Optimal Power Flow.
 For urban environments
 ---------------
 
+* Tianyuan Huang, Timothy Dai, * **Zhecheng Wang**, Hesu Yoon, Hao Sheng, Andrew Ng, Ram Rajagopal, and Jackelyn Hwang (2022). 
+Detecting Neighborhood Gentrification at Scale via Street-level Visual Data. 
+To appear in **IEEE International Conference on Big Data**. 
+(manuscript available upon request)
+
+* Tianyuan Huang\*, **Zhecheng Wang**\*, Hao Sheng\*, Andrew Ng, and Ram Rajagopal (2021). 
+M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph. 
+**ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data**. (\* equal contribution)}. 
+[(link)](http://cs.emory.edu/~lzhao41/venues/DeepSpatial2021/papers/M3G__Deepspatial_2021.pdf)
+
+* Mingxiang Chen, Qichang Chen, Lei Gao, Yilin Chen, and **Zhecheng Wang** (2021). 
+M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph. 
+**AAAI AI for Urban Mobility Workshop**. (\* equal contribution)}. 
+[(link)](http://aium2021.felk.cvut.cz/papers/AI4UM_paper_3.pdf)
+    
 * **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
 Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding''. 
 **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
