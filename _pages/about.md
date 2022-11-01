@@ -18,14 +18,16 @@ Previously, I received my M.S. degree in Mechanical Engineering from [Stanford U
 Research Interests
 ======
 Granular data are essential input for decision making at various time scales to support sustainable development. However, these data are either largely unavailable or stored in "data silos", especially for developing countries and disadvantaged communities. 
-I am interested in bridging this gap by developing machine learning models to convert multi-modal, unstructured, yet widely-available “raw” data into extract spatially- and temporally-resolved structured data. 
-I am also interested in extracting useful patterns and insights from these data to deliver real-world impact (e.g., imforming policy making). For my PhD research, the main application focused on distributed energy systems, including **distributed solar PV systems** and **electrical distribution grids**.
+I am interested in bridging this gap by developing machine learning models to convert **multi-modal**, **unstructured**, yet **widely-available** “raw” data into **spatially- and temporally-resolved structured** data. 
+I am also interested in extracting useful patterns and insights from these data to deliver real-world impact (e.g., imforming policy making).
 
 Specially, my research interests can be summarized into two aspects:
 
 * **Data acquisition**: semi-supervised learning, unsupervised learning, and multi-modal learning for converting geo-tagged unstructure data (e.g., remote sensing images, geo-tagged text) into structured datasets.
 
 * **Data analytics**: spatiotemporal data analysis and causal inference with applications in technology adoption, energy/climate justice, energy/climate policies, etc.
+
+In my PhD research, the main application focus on distributed energy systems, including **distributed solar PV systems** and **electrical distribution grids**.
 
 
 News 
