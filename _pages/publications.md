@@ -14,10 +14,6 @@ DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer
 **Joule**. 
 [(link)](https://doi.org/10.1016/j.joule.2022.09.011)
     
-* **Zhecheng Wang**, Chad Zanocco, Rajanie Prabha, Moritz Wussow, Arun Majumdar, and Ram Rajagopal. 
-Heterogeneous Effects of Financial Incentives on Solar Adoption in the United States. 
-Working paper.
-    
 * Kevin Mayer, Benjamin Rausch, Marie-Louise Arlt, Gunther Gust, **Zhecheng Wang**, Dirk Neumann, and Ram Rajagopal (2022). 
 3D-PV-Locator: Large-Scale Detection of Rooftop-Mounted Photovoltaic Systems in 3D. 
 **Applied Energy**.  
