@@ -1,6 +1,7 @@
 ---
 title: "DeepSolar++"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/6037_timelapse_fast.gif'>"
+excerpt: "Short description of portfolio item number 1 this is a very long descrpition to test whether there is an issue when I use the original size of the gif. The results can lead me to the next step.
+<br/><img src='/images/6037_timelapse_fast.gif'>"
 collection: portfolio
 ---
 
