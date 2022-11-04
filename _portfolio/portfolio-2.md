@@ -1,7 +1,7 @@
 ---
-title: "DeepSolar++"
+title: "DeepSolar"
 excerpt: "What is critically needed but lacking today to understand the technology diffusion of solar PVs over time is a highly granular spatiotemporal dataset for solar installations, as well as the method to efficiently construct and maintenance it. In this project, we bridge this gap by developing computer vision models to deal with low-resolution historical satellite and aerial images to identify when each solar PV system was installed. With this model, we constructed a nationwide spatiotemporal dataset for solar PVs. We further demonstrated the value of this dataset by analyzing it for the technology adoption lifecycle perspective to answer the questions such as: What factors are associated with the onset of solar adoption? What factors are associated with the saturated adoption level? What types of financial incentives are associated with higher saturated adoption levels, especially for low-income communities?
-<br/><img src='/images/6037_timelapse_notated.gif'>"
+<br/><img src='/images/deepsolar.png'>"
 collection: portfolio
 ---
 
@@ -12,6 +12,8 @@ Solar photovoltaic (PV) systems are being deployed at a rapid yet non-uniform pa
 * **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
-[(link)](http://web.stanford.edu/group/deepsolar/home)
+[(paper link)](https://doi.org/10.1016/j.joule.2018.11.021)
+[(project website)](https://doi.org/10.1016/j.joule.2018.11.021)
 
-[(code)](https://github.com/wangzhecheng/DeepSolar_timelapse)
+[(code - Tensorflow archive)](https://github.com/wangzhecheng/DeepSolar) 
+[(code - PyTorch)](https://github.com/wangzhecheng/deepsolar_pytorch)
