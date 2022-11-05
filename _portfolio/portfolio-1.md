@@ -2,7 +2,7 @@
 title: "DeepSolar++"
 excerpt: "What is critically needed but lacking today to understand the technology diffusion of solar PVs over time is a highly granular spatiotemporal dataset for solar installations, as well as the method to efficiently construct and maintenance it. In this project, we bridge this gap by developing computer vision models to deal with low-resolution historical satellite and aerial images to identify when each solar PV system was installed. With this model, we constructed a nationwide spatiotemporal dataset for solar PVs. We further demonstrated the value of this dataset by analyzing it from the technology adoption lifecycle perspective to answer the questions such as: What factors are associated with the onset of solar adoption? What factors are associated with the saturated adoption level? What types of financial incentives are associated with higher saturated adoption levels, especially for low-income communities?
 <br/>
-<br/><img src='/images/6037_timelapse_notated.gif' style='width:1000px;height:645px;'>"
+<br/><img src='/images/6037_timelapse_notated.gif' style='width:1000px;'>"
 collection: portfolio
 ---
 
