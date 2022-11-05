@@ -29,19 +29,12 @@ DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deploym
 
 **Media coverage**:
 
-[Stanford News](https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/)
-
-[MIT Technology Review](https://www.technologyreview.com/the-download/612650/how-deep-learning-helped-to-map-every-solar-panel-in-the-us/)
-
-[TechCrunch](https://techcrunch.com/2018/12/19/this-project-is-mapping-every-solar-panel-in-the-country-using-machine-learning/)
-
-[Gizmodo](https://gizmodo.com/this-ai-just-mapped-every-solar-panel-in-the-united-sta-1831200756)
-
-[Earth.com](https://www.earth.com/news/algorithm-locate-solar-panel/)
-
-[Fast Company](https://www.fastcompany.com/90284523/there-are-way-more-solar-panels-in-the-u-s-than-we-thought)
-
-[PBS NewsHour](https://www.pbs.org/newshour/science/how-artificial-intelligence-spotted-every-solar-panel-in-the-u-s)
-
-[La Vanguardia (Barcelona daily)](https://www.lavanguardia.com/vida/20181219/453650905847/innovador-estudio-detecta-casi-15-millones-de-paneles-solares-en-eeuu.html)
+([Stanford News](https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/)) 
+([MIT Technology Review](https://www.technologyreview.com/the-download/612650/how-deep-learning-helped-to-map-every-solar-panel-in-the-us/)) 
+([TechCrunch](https://techcrunch.com/2018/12/19/this-project-is-mapping-every-solar-panel-in-the-country-using-machine-learning/))
+([Gizmodo](https://gizmodo.com/this-ai-just-mapped-every-solar-panel-in-the-united-sta-1831200756)) 
+([Earth.com](https://www.earth.com/news/algorithm-locate-solar-panel/)) 
+([Fast Company](https://www.fastcompany.com/90284523/there-are-way-more-solar-panels-in-the-u-s-than-we-thought))
+([PBS NewsHour](https://www.pbs.org/newshour/science/how-artificial-intelligence-spotted-every-solar-panel-in-the-u-s))
+([La Vanguardia (Barcelona daily)](https://www.lavanguardia.com/vida/20181219/453650905847/innovador-estudio-detecta-casi-15-millones-de-paneles-solares-en-eeuu.html))
 

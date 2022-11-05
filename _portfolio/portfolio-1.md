@@ -13,6 +13,9 @@ Solar photovoltaic (PV) systems are being deployed at a rapid yet non-uniform pa
 * **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
-[(link)](http://web.stanford.edu/group/deepsolar/home)
+[(link)](http://web.stanford.edu/group/deepsolar/home) [(code)](https://github.com/wangzhecheng/DeepSolar_timelapse)
 
-[(code)](https://github.com/wangzhecheng/DeepSolar_timelapse)
+* Zhengcheng Wang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
+Identify Solar Panels in Low Resolution Satellite Imagery with Siamese Architecture and Cross-Correlation.
+**NeurIPS Tackling Climate Change with Machine Learning Workshop**. (\* Equal contribution)
+[(link)](https://www.climatechange.ai/papers/neurips2019/28/paper.pdf)
