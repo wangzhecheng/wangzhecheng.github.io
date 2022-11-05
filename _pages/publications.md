@@ -84,7 +84,7 @@ M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph.
 
 * Mingxiang Chen, Qichang Chen, Lei Gao, Yilin Chen, and **Zhecheng Wang** (2021). 
 M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph. 
-**AAAI AI for Urban Mobility Workshop**. (\* equal contribution)}. 
+**AAAI AI for Urban Mobility Workshop**. (\* equal contribution) 
 [(link)](http://aium2021.felk.cvut.cz/papers/AI4UM_paper_3.pdf)
     
 * **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
