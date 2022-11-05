@@ -1,7 +1,7 @@
 ---
 title: "DeepSolar"
 excerpt: "We built a nationwide solar installation database for the contiguous US utilizing a novel deep learning model applied to
-satellite and aerial imagery. The data are published as the first publicly available, high-fidelity solar installation database covering all states in the contiguous US. For each solar installation, the database contains the geolocation, size, and subtype information. We demonstrated its value by identifying key environmental and socioeconomic factors correlated with solar deployment. We also developed high-accuracy machine learning models to predict solar deployment density utilizing these factors as input. We hope the data produced by DeepSolar can aid researchers, policymakers, and the industry in gaining a better understanding of solar adoption and its impacts. [(project website)](https://doi.org/10.1016/j.joule.2018.11.021)
+satellite and aerial imagery. The data are published as the first publicly available, high-fidelity solar installation database covering all states in the contiguous US. For each solar installation, the database contains the geolocation, size, and subtype information. We demonstrated its value by identifying key environmental and socioeconomic factors correlated with solar deployment. We also developed high-accuracy machine learning models to predict solar deployment density utilizing these factors as input. We hope the data produced by DeepSolar can aid researchers, policymakers, and the industry in gaining a better understanding of solar adoption and its impacts. [(project website)](http://web.stanford.edu/group/deepsolar/home)
 <br/>
 <br/><img src='/images/deepsolar.png' width="760">"
 collection: portfolio
@@ -23,8 +23,8 @@ DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deploym
 **Joule**. (\* Equal contribution)  
 [(link)](https://doi.org/10.1016/j.joule.2018.11.021)
 
-[(project website)](https://doi.org/10.1016/j.joule.2018.11.021)
-[(code - Tensorflow archive)](https://github.com/wangzhecheng/DeepSolar) 
+[(project website)](http://web.stanford.edu/group/deepsolar/home)
+[(code - Tensorflow legacy)](https://github.com/wangzhecheng/DeepSolar) 
 [(code - PyTorch)](https://github.com/wangzhecheng/deepsolar_pytorch)
 
 **Media coverage**:
