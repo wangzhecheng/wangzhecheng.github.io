@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Civil and Environmental Engineering with minor in Computer Science at [Stanford University](https://www.stanford.edu/). I am co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). 
-I am broadly interested in large-scale **data acquisition** and **data analytics** to support [sustainable development](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) with the cross-interdisciplinary integration of **machine learning**, **social science**, and **economics**. 
+I am broadly interested in large-scale **data acquisition** and **data analytics** to support [sustainable development](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) with the cross-disciplinary integration of **machine learning**, **social science**, and **economics**. 
 My research aims to **bridge the data gap** with machine learning and **distill data into insights** with social science and economics to **customize** the answers for different countries, regions, and communities to the broad question: how to make our world more sustainable, equitable, resilient to climate change?
 
 Previously, I received my M.S. degree in Mechanical Engineering from Stanford University in 2018, and my Bachelor's degree in Energy and Power Engineering from Tsinghua University in 2016. 
@@ -33,6 +33,8 @@ In my PhD research, the main application focus on distributed energy systems, in
 
 News 
 ======
+
+* **11/16/2022** Our DeepSolar++ paper is covered by [Stanford News](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/).
 
 * **10/18/2022** Our DeepSolar++ paper is online on [Joule](https://doi.org/10.1016/j.joule.2022.09.011).
 
