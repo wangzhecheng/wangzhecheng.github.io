@@ -15,10 +15,10 @@ For example, they can be used as input features to predict neighborhood-level ch
 
 * **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
 Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding''. 
-**AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
+**AAAI Conference on Artificial Intelligence**. (\* equal contribution)
 [(link)](https://doi.org/10.1609/aaai.v34i01.5450)
 
 * Tianyuan Huang\*, **Zhecheng Wang**\*, Hao Sheng\*, Andrew Ng, and Ram Rajagopal (2021). 
 M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph. 
-**ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data**. (\* equal contribution)}. 
+**ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data**. (\* equal contribution). 
 [(link)](http://cs.emory.edu/~lzhao41/venues/DeepSpatial2021/papers/M3G__Deepspatial_2021.pdf)

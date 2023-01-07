@@ -14,7 +14,8 @@ Solar photovoltaic (PV) systems are being deployed at a rapid yet non-uniform pa
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
 [(link)](https://doi.org/10.1016/j.joule.2022.09.011) 
-[(project website)](http://web.stanford.edu/group/deepsolar/home) [(code)](https://github.com/wangzhecheng/DeepSolar_timelapse)
+[(project website)](http://web.stanford.edu/group/deepsolar/home) [(code)](https://github.com/wangzhecheng/DeepSolar_timelapse) 
+[(Stanford News)](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/)
 
 * Zhengcheng Wang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
 Identify Solar Panels in Low Resolution Satellite Imagery with Siamese Architecture and Cross-Correlation.
