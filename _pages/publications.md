@@ -49,12 +49,12 @@ For electrical grid infrastructure
 
 * **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2022). 
 Geospatial Mapping of Distribution Grid with Machine Learning and Multi-Modal Open Data. 
-Under revision, 2022. 
+Under revision, 2023. 
 (manuscript available upon request)
 
 * **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2022). 
 Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
- Under review, 2022. 
+ Under revision, 2023. 
 (manuscript available upon request)
     
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
@@ -74,7 +74,7 @@ For urban environments
 * Tianyuan Huang, Timothy Dai, **Zhecheng Wang**, Hesu Yoon, Hao Sheng, Andrew Ng, Ram Rajagopal, and Jackelyn Hwang (2022). 
 Detecting Neighborhood Gentrification at Scale via Street-level Visual Data. 
 To appear in **IEEE International Conference on Big Data**. 
-(manuscript available upon request)
+[(link)](https://doi.org/10.1109/BigData55660.2022.10020341)
 
 * Tianyuan Huang\*, **Zhecheng Wang**\*, Hao Sheng\*, Andrew Ng, and Ram Rajagopal (2021). 
 M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph. 
