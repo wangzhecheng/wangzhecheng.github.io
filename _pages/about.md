@@ -24,7 +24,7 @@ I am also interested in extracting useful patterns and insights from these data 
 
 Specifically, my research interests can be summarized into two aspects:
 
-* **Data acquisition**: semi-supervised learning, unsupervised learning, and multi-modal learning for converting widely-available geo-tagged unstructure data (e.g., remote sensing images, geo-tagged text) into structured datasets.
+* **Data acquisition**: self-supervised learning and multi-modal learning for converting widely-available geo-tagged unstructure data (e.g., remote sensing images, geo-tagged text) into structured datasets.
 
 * **Data analytics**: spatiotemporal data analysis and causal inference with applications in technology adoption, energy/climate justice, energy/climate policies, etc.
 
@@ -34,13 +34,15 @@ In my PhD research, the main application focus on distributed energy systems, in
 News 
 ======
 
+* **06/14/2023** Our paper on improving grid resilience to wildfires has been accepted by and to appear in Nature Energy.
+
 * **11/16/2022** Our DeepSolar++ paper is covered by [Stanford News](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/).
 
 * **10/18/2022** Our DeepSolar++ paper is online on [Joule](https://doi.org/10.1016/j.joule.2022.09.011).
 
-* **10/13/2022** I have successfully [defended](https://events.stanford.edu/event/zhecheng_wang_phd_defense) my PhD thesis!
+* **10/13/2022** Successfully [defended](https://events.stanford.edu/event/zhecheng_wang_phd_defense) my PhD thesis!
 
-* **08/15/2022** I gave a talk at DOE SETO webinar "Application of Computer Vision to Power Grid Management".
+* **08/15/2022** Gave a talk at DOE SETO webinar "Application of Computer Vision to Power Grid Management".
 
-* **05/05/2022** I gave a talk on Stanford [Energy Solution Week](https://gef.stanford.edu/energy-solutions-week/program) on "DeepSolar: Spatiotemporal Mapping of Solar Deployment Using Deep Learning".
+* **05/05/2022** Gave a talk on Stanford [Energy Solution Week](https://gef.stanford.edu/energy-solutions-week/program) on "DeepSolar: Spatiotemporal Mapping of Solar Deployment Using Deep Learning".
 

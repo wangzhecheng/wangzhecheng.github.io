@@ -13,6 +13,14 @@ For distributed renewable energy
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
 [(link)](https://doi.org/10.1016/j.joule.2022.09.011) [(Stanford News)](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/)
+
+* Moritz Wussow, Chad Zanocco, **Zhecheng Wang**, Rajanie Prabha, June Flora, Dirk Neumann, Arun Majumdar, and Ram Rajagopal. 
+Exploring the Potential of Non-Residential Solar to Tackle Energy Injustice. 
+Under revision, 2023. 
+
+* Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
+Scalable Wind Turbine Detection and Height Estimation using Deep Learning on Satellite Imagery. 
+Under revision, 2023. 
     
 * Kevin Mayer, Benjamin Rausch, Marie-Louise Arlt, Gunther Gust, **Zhecheng Wang**, Dirk Neumann, and Ram Rajagopal (2022). 
 3D-PV-Locator: Large-Scale Detection of Rooftop-Mounted Photovoltaic Systems in 3D. 
@@ -47,16 +55,12 @@ DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deploym
 For electrical grid infrastructure
 ---------------
 
-* **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2022). 
-Geospatial Mapping of Distribution Grid with Machine Learning and Multi-Modal Open Data. 
-Under revision, 2023. 
-(manuscript available upon request)
+* **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. Accepted by **Nature Energy**.
 
-* **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2022). 
-Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
- Under revision, 2023. 
-(manuscript available upon request)
-    
+* **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**.
+
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
 Fine-Grained Distribution Grid Mapping Using Street View Imagery.
 **NeurIPS Tackling Climate Change with Machine Learning Workshop**. (\* Equal contribution)
