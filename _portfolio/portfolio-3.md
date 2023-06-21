@@ -14,15 +14,12 @@ By applying this model to California, we not only identified multiple levels of 
 
 **Publication**:
 
-* **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2022). 
+* **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
 Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. 
-Accepted (in principle), 2023. 
-(manuscript available upon request)
+Accepted in principle.
 
-* **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2022). 
-Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
- Accepted, 2023. 
-(manuscript available upon request)
+* **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. Accepted.
     
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
 Fine-Grained Distribution Grid Mapping Using Street View Imagery.
