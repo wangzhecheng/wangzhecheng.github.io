@@ -8,41 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at [Stanford University](https://www.stanford.edu/), working with [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). 
-I am broadly interested in large-scale **data acquisition** and **data analytics** to support [sustainable development](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) with the cross-disciplinary integration of **machine learning**, **social science**, and **economics**. 
-My research aims to **bridge the data gap** with machine learning and **distill data into insights** with social science and economics to **customize** the answers for different countries, regions, and communities to the broad question: how to make our energy systems and infrastructures more sustainable, equitable, and resilient to climate change?
+I am a HAI (Human-Centered AI) Postdoctoral Fellow at [Stanford University](https://www.stanford.edu/). 
+My research aims to **transform raw pixels into actionable insights** to support decision making for **equitable** mitigation and adaptation of climate change. 
+Specifically, I develop machine learning models for multi-modal geospatial data (e.g., remote sensing images, geo-tagged text) to understand *"what is going on?"* especially in developing countries and disadvantaged communities. I further leverage these observations to inform *"what can we do?"* (e.g., policy making). 
+My main application areas include: (1) the adoption of renewable energy (e.g., solar PVs); (2) the resilience of infrastructure (e.g., electrical grids) to climate-induced extreme weather events. 
+My current technical interests are multi-modal learning and foundation models applied on geospatial data.
 
-Previously, I obtained my PhD degree in Civil and Environmental Engineering with minor in Computer Science in 2022, and my M.S. degree in Mechanical Engineering in 2018, both from [Stanford University](https://www.stanford.edu/). I obtained my Bachelor's degree in Energy and Power Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2016. 
+Previously, I obtained my PhD degree in Civil and Environmental Engineering with minor in Computer Science at Stanford in 2022, co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). I obtained my M.S. degree in Mechanical Engineering at Stanford in 2018, and my Bachelor's degree in Energy and Power Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2016. 
 
 Email: zhecheng (at) stanford (dot) edu
 
-Research Interests
-======
-Granular data are essential input for decision making at various time scales to support sustainable development. However, these data are either largely unavailable or stored in "data silos", especially for developing countries and disadvantaged communities. 
-I am interested in bridging this gap by developing machine learning models to convert **multi-modal**, **unstructured**, yet **widely-available** “raw” data into **spatially- and temporally-resolved structured** data. 
-I am also interested in extracting useful patterns and insights from these data to deliver real-world impact (e.g., imforming policy making).
 
-Specifically, my research interests can be summarized into two aspects:
-
-* **Data acquisition**: self-supervised learning and multi-modal learning for converting widely-available geo-tagged unstructure data (e.g., remote sensing images, geo-tagged text) into structured datasets.
-
-* **Data analytics**: spatiotemporal data analysis and causal inference with applications in technology adoption, energy/climate justice, energy/climate policies, etc.
-
-In my PhD research, the main application focus on distributed energy systems, including **distributed solar PV systems** and **electrical distribution grids**.
-
-
-News 
+Recent News 
 ======
 
-* **06/14/2023** Our paper on improving grid resilience to wildfires has been accepted by and to appear in Nature Energy.
+* **08/17/2023** Our paper on fine-grained distribution grid mapping to wildfires has been published in [Nature Communications](https://www.nature.com/articles/s41467-023-39647-3).
 
-* **11/16/2022** Our DeepSolar++ paper is covered by [Stanford News](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/).
+* **08/07/2023** Our paper on improving grid resilience to wildfires has been published in [Nature Energy](https://www.nature.com/articles/s41560-023-01306-8) and covered by multiple media outlets (e.g., [Stanford News](https://news.stanford.edu/2023/08/07/resilient-power-grids/), [The Hill](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)).
 
-* **10/18/2022** Our DeepSolar++ paper is online on [Joule](https://doi.org/10.1016/j.joule.2022.09.011).
 
-* **10/13/2022** Successfully [defended](https://events.stanford.edu/event/zhecheng_wang_phd_defense) my PhD thesis!
-
-* **08/15/2022** Gave a talk at DOE SETO webinar "Application of Computer Vision to Power Grid Management".
-
-* **05/05/2022** Gave a talk on Stanford [Energy Solution Week](https://gef.stanford.edu/energy-solutions-week/program) on "DeepSolar: Spatiotemporal Mapping of Solar Deployment Using Deep Learning".
 

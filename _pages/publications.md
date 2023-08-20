@@ -1,27 +1,66 @@
 ---
 layout: archive
-title: "Publications by Topics"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-
-For distributed renewable energy
+Selected Publications
 ---------------
+
+* **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
+**Nature Energy**.
+[(link)](https://doi.org/10.1038/s41560-023-01306-8) 
+[(Stanford News)](https://news.stanford.edu/2023/08/07/resilient-power-grids/) 
+[(The Hill)](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)
 
 * **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
 [(link)](https://doi.org/10.1016/j.joule.2022.09.011) [(Stanford News)](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/)
 
+* Jiafan Yu\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2018). 
+DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.
+**Joule**. (\* Equal contribution) 
+[(link)](https://doi.org/10.1016/j.joule.2018.11.021) 
+[(website)](http://web.stanford.edu/group/deepsolar/home) 
+[(Stanford News)](https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/) 
+[(MIT Technology Review)](https://www.technologyreview.com/2018/12/20/103625/how-deep-learning-helped-to-map-every-solar-panel-in-the-us/) 
+
+* **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**. 
+[(link)](https://www.nature.com/articles/s41467-023-39647-3)
+
+* **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
+Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding''. 
+**AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
+[(link)](https://doi.org/10.1609/aaai.v34i01.5450)
+
+
+
+
+
+Publications by Topics
+---------------
+
+
+
+### For distributed renewable energy:
+
 * Moritz Wussow, Chad Zanocco, **Zhecheng Wang**, Rajanie Prabha, June Flora, Dirk Neumann, Arun Majumdar, and Ram Rajagopal. 
 Exploring the Potential of Non-Residential Solar to Tackle Energy Injustice. 
-Under revision, 2023. 
+Under revision. 
 
 * Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
 Scalable Wind Turbine Detection and Height Estimation using Deep Learning on Satellite Imagery. 
-Under revision, 2023. 
-    
+Under revision. 
+
+* **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
+DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
+**Joule**. 
+[(link)](https://doi.org/10.1016/j.joule.2022.09.011) 
+
 * Kevin Mayer, Benjamin Rausch, Marie-Louise Arlt, Gunther Gust, **Zhecheng Wang**, Dirk Neumann, and Ram Rajagopal (2022). 
 3D-PV-Locator: Large-Scale Detection of Rooftop-Mounted Photovoltaic Systems in 3D. 
 **Applied Energy**. [(link)](https://www.sciencedirect.com/science/article/pii/S0306261921016937)
@@ -45,21 +84,18 @@ DeepWind: Weakly Supervised Localization of Wind Turbines in Satellite Imagery
 * Jiafan Yu\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2018). 
 DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.
 **Joule**. (\* Equal contribution) 
-[(link)](https://doi.org/10.1016/j.joule.2018.11.021) 
-[(website)](http://web.stanford.edu/group/deepsolar/home) 
-[(Stanford News)](https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/) 
-[(MIT Technology Review)](https://www.technologyreview.com/2018/12/20/103625/how-deep-learning-helped-to-map-every-solar-panel-in-the-us/) 
-[(TechCrunch)](https://techcrunch.com/2018/12/19/this-project-is-mapping-every-solar-panel-in-the-country-using-machine-learning/) 
+[(link)](https://doi.org/10.1016/j.joule.2018.11.021)
 
 
-For electrical grid infrastructure
----------------
+### For electrical grid infrastructure:
 
 * **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
-Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. Accepted by **Nature Energy**.
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. **Nature Energy**.
+[(link)](https://doi.org/10.1038/s41560-023-01306-8)
 
 * **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
-Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**.
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**. 
+[(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
 Fine-Grained Distribution Grid Mapping Using Street View Imagery.
@@ -72,8 +108,7 @@ Machine Learning for AC Optimal Power Flow.
 [(link)](https://www.climatechange.ai/papers/icml2019/9/paper.pdf) 
 
 
-For urban environments
----------------
+### For urban environments:
 
 * Tianyuan Huang, Timothy Dai, **Zhecheng Wang**, Hesu Yoon, Hao Sheng, Andrew Ng, Ram Rajagopal, and Jackelyn Hwang (2022). 
 Detecting Neighborhood Gentrification at Scale via Street-level Visual Data. 

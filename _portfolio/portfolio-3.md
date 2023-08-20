@@ -15,11 +15,15 @@ By applying this model to California, we not only identified multiple levels of 
 **Publication**:
 
 * **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
-Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. 
-Accepted in principle.
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**. 
+[(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
 * **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
-Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. Accepted.
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
+**Nature Energy**.
+[(link)](https://doi.org/10.1038/s41560-023-01306-8) 
+[(Stanford News)](https://news.stanford.edu/2023/08/07/resilient-power-grids/) 
+[(The Hill)](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)
     
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
 Fine-Grained Distribution Grid Mapping Using Street View Imagery.
