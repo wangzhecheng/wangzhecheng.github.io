@@ -15,7 +15,7 @@ By applying this model to California, we not only identified multiple levels of 
 **Publication**:
 
 * **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
-Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**. 
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. **Nature Communications**. 
 [(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
 * **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 

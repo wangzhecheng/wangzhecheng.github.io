@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a HAI (Human-Centered AI) Postdoctoral Fellow at [Stanford University](https://www.stanford.edu/). 
-My research aims to **transform raw pixels into actionable insights** to support decision making for **equitable** mitigation and adaptation of climate change. 
+I am a [HAI](https://hai.stanford.edu/) (Human-Centered AI) Postdoctoral Fellow at Stanford University. 
+My research aims to **transform raw pixels into actionable insights** to support decision making for **equitable mitigation and adaptation of climate change**. 
 Specifically, I develop machine learning models for multi-modal geospatial data (e.g., remote sensing images, geo-tagged text) to understand *"what is going on?"* especially in developing countries and disadvantaged communities. I further leverage these observations to inform *"what can we do?"* (e.g., policy making). 
+
 My main application areas include: (1) the adoption of renewable energy (e.g., solar PVs); (2) the resilience of infrastructure (e.g., electrical grids) to climate-induced extreme weather events. 
 My current technical interests are multi-modal learning and foundation models applied on geospatial data.
 

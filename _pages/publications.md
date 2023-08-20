@@ -29,7 +29,8 @@ DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deploym
 [(MIT Technology Review)](https://www.technologyreview.com/2018/12/20/103625/how-deep-learning-helped-to-map-every-solar-panel-in-the-us/) 
 
 * **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
-Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**. 
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. 
+**Nature Communications**. 
 [(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
 * **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
@@ -90,11 +91,13 @@ DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deploym
 ### For electrical grid infrastructure:
 
 * **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
-Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. **Nature Energy**.
+Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
+**Nature Energy**.
 [(link)](https://doi.org/10.1038/s41560-023-01306-8)
 
 * **Zhecheng Wang**, Arun Majumdar, and Ram Rajagopal (2023). 
-Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. Accepted in principle by **Nature Communications**. 
+Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Accessible Multi-Modal Data. 
+**Nature Communications**. 
 [(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
 * Qinghu Tang\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2019). 
