@@ -34,7 +34,7 @@ Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Acces
 [(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
 * **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
-Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding''. 
+Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding. 
 **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
 [(link)](https://doi.org/10.1609/aaai.v34i01.5450)
 
@@ -129,7 +129,7 @@ M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph.
 [(link)](http://aium2021.felk.cvut.cz/papers/AI4UM_paper_3.pdf)
     
 * **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
-Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding''. 
+Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding. 
 **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
 [(link)](https://doi.org/10.1609/aaai.v34i01.5450)
 
