@@ -115,12 +115,12 @@ Machine Learning for AC Optimal Power Flow.
 
 * Tianyuan Huang, Timothy Dai, **Zhecheng Wang**, Hesu Yoon, Hao Sheng, Andrew Ng, Ram Rajagopal, and Jackelyn Hwang (2022). 
 Detecting Neighborhood Gentrification at Scale via Street-level Visual Data. 
-To appear in **IEEE International Conference on Big Data**. 
+**IEEE International Conference on Big Data**. 
 [(link)](https://doi.org/10.1109/BigData55660.2022.10020341)
 
 * Tianyuan Huang\*, **Zhecheng Wang**\*, Hao Sheng\*, Andrew Ng, and Ram Rajagopal (2021). 
 M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph. 
-**ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data**. (\* equal contribution)}. 
+**ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data**. (\* equal contribution). 
 [(link)](http://cs.emory.edu/~lzhao41/venues/DeepSpatial2021/papers/M3G__Deepspatial_2021.pdf)
 
 * Mingxiang Chen, Qichang Chen, Lei Gao, Yilin Chen, and **Zhecheng Wang** (2021). 
