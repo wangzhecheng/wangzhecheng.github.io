@@ -9,13 +9,16 @@ redirect_from:
 ---
 
 I am a [HAI (Human-Centered AI) Postdoctoral Fellow](https://hai.stanford.edu/) at Stanford University. 
-My research aims to **transform raw pixels into actionable insights** to support decision making for **equitable mitigation and adaptation of climate change**. 
+My research focuses on developing machine learning and other data-driven approaches to enable large-scale mapping, monitoring, and modeling of energy systems, infrastructure networks, and urban communities. The goal of my research is to provide algorithms, data, and actionable insights for decision making (e.g., urban planning, policymaking) to enable effective, equitable, and human-centered mitigation and adaptation of climate change.
+
+My current research topics include: distributed energy resources, infrastructure networks (especially electricity distribution networks), and their interactions with other components of the built environment as well as the changing climate. In particular, I am interested in developing machine learning foundation models for mapping, modeling, and analyzing such nexuses.
+
+<!-- My research aims to **transform raw pixels into actionable insights** to support **equitable mitigation and adaptation of climate change**. 
 Specifically, I develop machine learning models for multi-modal geospatial data (e.g., remote sensing images, geo-tagged text) to understand *"what is going on?"* especially in developing countries and disadvantaged communities. I further leverage these observations to inform *"what can we do?"* (e.g., policy making). 
-
 My main application areas include: (1) the adoption of renewable energy (e.g., solar PVs); (2) the resilience of infrastructure (e.g., electrical grids) to climate-induced extreme events. 
-My current technical interests include multi-modal learning and foundation models for geospatial data.
+My current technical interests include multi-modal learning and foundation models for geospatial data. -->
 
-Previously, I obtained my PhD degree in Civil and Environmental Engineering with minor in Computer Science at Stanford in 2022, co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). I obtained my M.S. degree in Mechanical Engineering at Stanford in 2018, and my Bachelor's degree in Energy and Power Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2016. 
+Previously, I obtained my PhD degree in Civil and Environmental Engineering with minor in Computer Science at Stanford, co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). I obtained my M.S. degree in Mechanical Engineering also from Stanford, and my Bachelor's degree in Energy, Power System and Automation from [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
 
 Email: zhecheng (at) stanford (dot) edu
 
@@ -23,7 +26,9 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
-* **08/17/2023** Our paper on fine-grained distribution grid mapping to wildfires has been published in [Nature Communications](https://www.nature.com/articles/s41467-023-39647-3).
+* **08/31/2023** Gave a talk at the webinar ["Sharing the Cost of Wildfire Resilience"](https://events.stanford.edu/event/Cost_of_Wildfire_Resilience).
+
+* **08/17/2023** Our paper on fine-grained distribution grid mapping has been published in [Nature Communications](https://www.nature.com/articles/s41467-023-39647-3).
 
 * **08/07/2023** Our paper on improving grid resilience to wildfires has been published in [Nature Energy](https://www.nature.com/articles/s41560-023-01306-8) and covered by many media outlets (e.g., [Stanford News](https://news.stanford.edu/2023/08/07/resilient-power-grids/), [The Hill](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)).
 
