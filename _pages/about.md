@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I am a [HAI (Human-Centered AI) Postdoctoral Fellow](https://hai.stanford.edu/) at Stanford University. 
-My research focuses on developing machine learning and other data-driven approaches to enable large-scale mapping, monitoring, and modeling of energy systems, infrastructure networks, and urban communities. The goal of my research is to provide algorithms, data, and actionable insights for decision making (e.g., urban planning, policymaking) to enable effective, equitable, and human-centered mitigation and adaptation of climate change.
+My research focuses on developing machine learning and other data-driven approaches to enable large-scale mapping, monitoring, and modeling of energy systems, infrastructure networks, and the urban environment. The goal of my research is to provide algorithms, data, and actionable insights for decision making (e.g., urban planning, policymaking) to enable effective, equitable, and human-centered mitigation and adaptation of climate change.
 
-My current research topics include: distributed energy resources, infrastructure networks (especially electricity distribution networks), and their interactions with other components of the built environment as well as the changing climate. In particular, I am interested in developing machine learning foundation models for mapping, modeling, and analyzing such nexuses.
+My current research topics include: distributed energy resources, infrastructure networks (especially electricity distribution networks), and their interactions with other components of natural/built environments as well as the changing climate. In particular, I am interested in developing machine learning foundation models for mapping, modeling, and analyzing such nexuses.
 
 <!-- My research aims to **transform raw pixels into actionable insights** to support **equitable mitigation and adaptation of climate change**. 
 Specifically, I develop machine learning models for multi-modal geospatial data (e.g., remote sensing images, geo-tagged text) to understand *"what is going on?"* especially in developing countries and disadvantaged communities. I further leverage these observations to inform *"what can we do?"* (e.g., policy making). 
