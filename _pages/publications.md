@@ -10,7 +10,7 @@ Selected Publications
 
 * **Zhecheng Wang**, Michael Wara, Arun Majumdar, and Ram Rajagopal (2023). 
 Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient Distribution Grid. 
-**Nature Energy**.
+**Nature Energy**. <span style="color:red">Featured as cover</span>.
 [(link)](https://doi.org/10.1038/s41560-023-01306-8) 
 [(Stanford News)](https://news.stanford.edu/2023/08/07/resilient-power-grids/) 
 [(The Hill)](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)
@@ -22,7 +22,7 @@ DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer
 
 * Jiafan Yu\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2018). 
 DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.
-**Joule**. (\* Equal contribution) 
+**Joule**. <span style="color:red">Featured as cover</span>. (\* Equal contribution)
 [(link)](https://doi.org/10.1016/j.joule.2018.11.021) 
 [(website)](http://web.stanford.edu/group/deepsolar/home) 
 [(Stanford News)](https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/) 

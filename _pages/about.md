@@ -26,11 +26,13 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
+* **10/11/2023** Invited to visit PG&E and give a talk.
+
 * **08/31/2023** Gave a talk at the webinar ["Sharing the Cost of Wildfire Resilience"](https://events.stanford.edu/event/Cost_of_Wildfire_Resilience).
 
 * **08/17/2023** Our paper on fine-grained distribution grid mapping has been published in [Nature Communications](https://www.nature.com/articles/s41467-023-39647-3).
 
-* **08/07/2023** Our paper on improving grid resilience to wildfires has been published in [Nature Energy](https://www.nature.com/articles/s41560-023-01306-8) and covered by many media outlets (e.g., [Stanford News](https://news.stanford.edu/2023/08/07/resilient-power-grids/), [The Hill](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)).
+* **08/07/2023** Our paper on improving grid resilience to wildfires has been published in [Nature Energy](https://www.nature.com/articles/s41560-023-01306-8) (featured as cover) and covered by many media outlets (e.g., [Stanford News](https://news.stanford.edu/2023/08/07/resilient-power-grids/), [The Hill](https://thehill.com/policy/equilibrium-sustainability/4141541-california-undergrounding-approach-leaves-lower-income-populations-disadvantaged/)).
 
 
 
