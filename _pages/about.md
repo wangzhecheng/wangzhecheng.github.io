@@ -26,9 +26,9 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
-* **11/08/2023** Invited to participate in a fireside chat and talk about "From Raw Pixels to Actionable Insights" at ["Swissnex"](https://swissnex.org/).
+* **11/08/2023** Invited to participate in a fireside chat and talk about "From Raw Pixels to Actionable Insights" at [Swissnex](https://swissnex.org/).
 
-* **10/18/2023** Presented research on "AI for tackling climate change" to Mr. Bill Gates and the Breakthrough Energy leadership.
+* **10/18/2023** Presented research on AI for tackling climate change to Mr. Bill Gates and the Breakthrough Energy leadership.
 
 * **10/11/2023** Invited to visit PG&E and give a talk.
 
