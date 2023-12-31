@@ -51,7 +51,7 @@ Publications by Topics
 
 * Moritz Wussow, Chad Zanocco, **Zhecheng Wang**, Rajanie Prabha, June Flora, Dirk Neumann, Arun Majumdar, and Ram Rajagopal. 
 Exploring the Potential of Non-Residential Solar to Tackle Energy Injustice. 
-Under revision. 
+Under minor revision. 
 
 * Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
 Scalable Wind Turbine Detection and Height Estimation using Deep Learning on Satellite Imagery. 
@@ -132,4 +132,11 @@ M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph.
 Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding. 
 **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
 [(link)](https://doi.org/10.1609/aaai.v34i01.5450)
+
+### For machine learning foundation models:
+
+* **Zhecheng Wang**, Rajanie Prabha\*, Tianyuan Huang\*, Jiajun Wu, and Ram Rajagopal (2023). 
+SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing.
+To appear in **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
+[(link)](https://arxiv.org/abs/2312.12856)
 
