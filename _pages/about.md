@@ -26,7 +26,11 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
+* **12/19/2023** We published [SkyScript](https://github.com/wangzhecheng/SkyScript), a large and semantically diverse remote sensing image-text dataset for developing and evaluating vision-language models for remote sensing imagery. Its corresponding [paper](https://arxiv.org/abs/2312.12856) is accepted by and to appear in AAAI 2024.
+
 * **11/08/2023** Invited to participate in a fireside chat and talk about "From Raw Pixels to Actionable Insights" at [Swissnex](https://swissnex.org/).
+
+* **11/01/2023** Presented the research outcomes of our DOE-funded project at the DOE workshop: solar applications of AI/ML, which was hosted by the DOE Solar Energy Technologies Office (SETO).
 
 * **10/18/2023** Presented research on AI for tackling climate change to Mr. Bill Gates and the Breakthrough Energy leadership.
 
