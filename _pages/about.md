@@ -26,17 +26,19 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
-* **12/19/2023** We published [SkyScript](https://github.com/wangzhecheng/SkyScript), a large and semantically diverse remote sensing image-text dataset for developing and evaluating vision-language models for remote sensing imagery. Its corresponding [paper](https://arxiv.org/abs/2312.12856) is accepted by and to appear in AAAI 2024.
+* **02/08/2023** Invited talk at the Solar Colloquium hosted by DOE [Solar Energy Technologies Office (SETO)](https://www.energy.gov/eere/solar/solar-energy-technologies-office).
 
-* **11/08/2023** Invited to participate in a fireside chat and talk about "From Raw Pixels to Actionable Insights" at [Swissnex](https://swissnex.org/).
+* **12/19/2023** We published [SkyScript](https://github.com/wangzhecheng/SkyScript), a large and semantically diverse remote sensing image-text dataset for developing and evaluating vision-language models for remote sensing imagery. Its corresponding [paper](https://arxiv.org/abs/2312.12856) is accepted by AAAI 2024.
 
-* **11/01/2023** Presented the research outcomes of our DOE-funded project at the DOE workshop: solar applications of AI/ML, which was hosted by the DOE Solar Energy Technologies Office (SETO).
+* **11/08/2023** Invited talk "From Raw Pixels to Actionable Insights" at [Swissnex](https://swissnex.org/).
+
+* **11/01/2023** Presented the research outcomes of our DOE-funded project at the DOE workshop: solar applications of AI/ML, hosted by the DOE Solar Energy Technologies Office (SETO).
 
 * **10/18/2023** Presented research on AI for tackling climate change to Mr. Bill Gates and the Breakthrough Energy leadership.
 
 * **10/11/2023** Invited to visit PG&E and give a talk.
 
-* **08/31/2023** Gave a talk at the webinar ["Sharing the Cost of Wildfire Resilience"](https://events.stanford.edu/event/Cost_of_Wildfire_Resilience).
+<!--* **08/31/2023** Gave a talk at the webinar ["Sharing the Cost of Wildfire Resilience"](https://events.stanford.edu/event/Cost_of_Wildfire_Resilience).-->
 
 * **08/17/2023** Our paper on fine-grained distribution grid mapping has been published in [Nature Communications](https://www.nature.com/articles/s41467-023-39647-3).
 

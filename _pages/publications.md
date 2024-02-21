@@ -33,10 +33,10 @@ Geospatial Mapping of Distribution Grid with Machine Learning and Publicly-Acces
 **Nature Communications**. 
 [(link)](https://www.nature.com/articles/s41467-023-39647-3)
 
-* **Zhecheng Wang**\*, Haoyuan Li\*, and Ram Rajagopal (2020). 
-Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding. 
+* **Zhecheng Wang**, Rajanie Prabha\*, Tianyuan Huang\*, Jiajun Wu, and Ram Rajagopal (2024). 
+SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing. 
 **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
-[(link)](https://doi.org/10.1609/aaai.v34i01.5450)
+[(link)](https://arxiv.org/abs/2312.12856)
 
 
 
@@ -49,9 +49,9 @@ Publications by Topics
 
 ### For distributed renewable energy:
 
-* Moritz Wussow, Chad Zanocco, **Zhecheng Wang**, Rajanie Prabha, June Flora, Dirk Neumann, Arun Majumdar, and Ram Rajagopal. 
+* Moritz Wussow, Chad Zanocco, **Zhecheng Wang**, Rajanie Prabha, June Flora, Dirk Neumann, Arun Majumdar, and Ram Rajagopal (2024). 
 Exploring the Potential of Non-Residential Solar to Tackle Energy Injustice. 
-Under minor revision. 
+**Nature Energy** (accepted). 
 
 * Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
 Scalable Wind Turbine Detection and Height Estimation using Deep Learning on Satellite Imagery. 
@@ -135,7 +135,7 @@ Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neig
 
 ### For machine learning foundation models:
 
-* **Zhecheng Wang**, Rajanie Prabha\*, Tianyuan Huang\*, Jiajun Wu, and Ram Rajagopal (2023). 
+* **Zhecheng Wang**, Rajanie Prabha\*, Tianyuan Huang\*, Jiajun Wu, and Ram Rajagopal (2024). 
 SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing.
 To appear in **AAAI Conference on Artificial Intelligence**. (\* Equal contribution)
 [(link)](https://arxiv.org/abs/2312.12856)
