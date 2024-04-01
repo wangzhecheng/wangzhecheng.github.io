@@ -51,7 +51,10 @@ Publications by Topics
 
 * Moritz Wussow, Chad Zanocco, **Zhecheng Wang**, Rajanie Prabha, June Flora, Dirk Neumann, Arun Majumdar, and Ram Rajagopal (2024). 
 Exploring the Potential of Non-Residential Solar to Tackle Energy Injustice. 
-**Nature Energy** (accepted). 
+**Nature Energy**.
+[(link)](https://doi.org/10.1038/s41560-024-01485-y) 
+[(Stanford News)](https://news.stanford.edu/2024/03/28/solar-potential-businesses-low-income-areas/) 
+[(Tech Xplore)](https://techxplore.com/news/2024-03-factory-warehouse-rooftops-untapped-opportunity.html/)
 
 * Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
 Scalable Wind Turbine Detection and Height Estimation using Deep Learning on Satellite Imagery. 

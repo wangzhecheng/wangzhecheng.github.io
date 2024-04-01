@@ -26,6 +26,9 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
+* **03/28/2024** Our paper on the potential of non-residential solar has been published in [Nature Energy](https://www.nature.com/articles/s41560-024-01485-y) and covered by many media outlets (e.g., [Stanford News](https://news.stanford.edu/2024/03/28/solar-potential-businesses-low-income-areas/), [Tech Xplore](https://techxplore.com/news/2024-03-factory-warehouse-rooftops-untapped-opportunity.html)).
+
+
 * **02/08/2023** Invited talk at the Solar Colloquium hosted by DOE [Solar Energy Technologies Office (SETO)](https://www.energy.gov/eere/solar/solar-energy-technologies-office).
 
 * **12/19/2023** We published [SkyScript](https://github.com/wangzhecheng/SkyScript), a large and semantically diverse remote sensing image-text dataset for developing and evaluating vision-language models for remote sensing imagery. Its corresponding [paper](https://arxiv.org/abs/2312.12856) is accepted by AAAI 2024.
