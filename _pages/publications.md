@@ -56,9 +56,9 @@ Exploring the Potential of Non-Residential Solar to Tackle Energy Injustice.
 [(Stanford News)](https://news.stanford.edu/2024/03/28/solar-potential-businesses-low-income-areas/) 
 [(Tech Xplore)](https://techxplore.com/news/2024-03-factory-warehouse-rooftops-untapped-opportunity.html)
 
-* Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
+<!--  * Jeremy Irvin, Yuan Fang, Eric Matsumoto, JK Hunt, **Zhecheng Wang**, Hao Sheng, Jenny Yang, Kyle Story, Rose Rustowicz, Andrew Ng, and Ram Rajagopal. 
 Scalable Wind Turbine Detection and Height Estimation using Deep Learning on Satellite Imagery. 
-Under revision. 
+Under revision. -->
 
 * **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
