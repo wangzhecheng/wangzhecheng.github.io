@@ -18,7 +18,7 @@ Local and Utility-Wide Cost Allocations for a More Equitable Wildfire-Resilient 
 * **Zhecheng Wang**, Marie-Louise Arlt, Chad Zanocco, Arun Majumdar, and Ram Rajagopal (2022). 
 DeepSolar++: Understanding Residential Solar Adoption Trajectories with Computer Vision and Technology Diffusion Models. 
 **Joule**. 
-[(link)](https://doi.org/10.1016/j.joule.2022.09.011) [(Stanford News)](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/review/)
+[(link)](https://doi.org/10.1016/j.joule.2022.09.011) [(Stanford News)](https://news.stanford.edu/2022/11/16/solar-panels-largely-confined-wealthy-americans/)
 
 * Jiafan Yu\*, **Zhecheng Wang**\*, Arun Majumdar, and Ram Rajagopal (2018). 
 DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.

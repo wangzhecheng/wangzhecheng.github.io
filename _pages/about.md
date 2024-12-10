@@ -27,6 +27,8 @@ Email: zhecheng (at) stanford (dot) edu
 Recent News 
 ======
 
+* **12/10/2024** Giving a talk about electrical grid exposure to wildfires at [AGU24](https://www.agu.org/annual-meeting/schedule).
+
 * **03/28/2024** Our paper on the potential of non-residential solar has been published in [Nature Energy](https://www.nature.com/articles/s41560-024-01485-y) and covered by many media outlets (e.g., [Stanford News](https://news.stanford.edu/2024/03/28/solar-potential-businesses-low-income-areas/), [Tech Xplore](https://techxplore.com/news/2024-03-factory-warehouse-rooftops-untapped-opportunity.html)).
 
 
