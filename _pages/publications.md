@@ -76,7 +76,7 @@ M3G: Learning Urban Neighborhood Representation from Multi-Modal Multi-Graph.
 [(link)](http://cs.emory.edu/~lzhao41/venues/DeepSpatial2021/papers/M3G__Deepspatial_2021.pdf)
 
 
-Mingxiang Chen, Qichang Chen, Lei Gao, Yilin Chen, and **Zhecheng Wang** (2021). 
+* Mingxiang Chen, Qichang Chen, Lei Gao, Yilin Chen, and **Zhecheng Wang** (2021). 
 Predicting Geographic Information with Neural Cellular Automata. 
 **AAAI AI for Urban Mobility Workshop**.
 [(link)](https://arxiv.org/pdf/2009.09347.pdf)
