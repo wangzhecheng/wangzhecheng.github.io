@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 Selected Publications
@@ -41,6 +41,11 @@ SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote S
 
 Other Publications
 ---------------
+
+* Tianyuan Huang, Chad Zanocco, **Zhecheng Wang**, Jackelyn Hwang, and Ram Rajagopal (2025). 
+Neighborhood Built Environment Disparities are Amplified During Extreme Weather Recovery. 
+Accepted in principle by **Nature**.
+
 
 * Tony Liu, Chad Zanocco, **Zhecheng Wang**, Tianyuan Huang, June Flora, and Ram Rajagopal (2025). 
 Large Language Model Enabled Knowledge Discovery of Building-Level Electrification Using Permit Data. 
