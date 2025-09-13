@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Join Us"
 permalink: /group/
 author_profile: false
