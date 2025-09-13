@@ -1,13 +1,3 @@
----
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: false
-redirect_from: 
-  - /about_archive/
-  - /about_archive.html
----
-
 I am a Postdoctoral Researcher at Stanford University. 
 My research focuses on **AI-enabled informatics for sustainability**—integrating AI with physical principles and social theories to enable large-scale mapping, monitoring, and modeling of interplay among infrastructure systems (e.g., energy infrastructure), climate threats, and human factors. The goal of my research is to advance our understanding of the climate-human-infrastructure nexus and to create generalizable, human-centered information systems that provide actionable insights for policymakers, urban planners, system operators, communities, and other stakeholders to accelerate decarbonization, improve climate resilience, and ensure equity.
 
