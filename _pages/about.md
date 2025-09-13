@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Assistant Professor (Boya Young Fellow) at the College of Urban and Environmental Sciences at [Peking University](https://english.pku.edu.cn/). My research group focuses on **AI-enabled geo-informatics for sustainability**—integrating geospatial AI with physical principles and social theories to enable large-scale mapping and modeling of the interplay among infrastructure systems (e.g., energy infrastructure), climate threats, and human factors. Our goal is to (1) advance our understanding of the infrastructure-climate-human nexus and its spatial heterogeneity; (2) create next-generation information systems that transform raw pixels into actionable insights for accelerating decarbonization and improving climate resilience.
 
-<span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn), postdocs, and research assistants. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
+<span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn), postdocs, and research assistants to join my group. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
 
 Our current research thrusts include:
 

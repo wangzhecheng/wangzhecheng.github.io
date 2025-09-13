@@ -4,7 +4,7 @@ permalink: /group/
 author_profile: false
 ---
 
-<span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn), postdocs, and research assistants. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
+<span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn), postdocs, and research assistants to join my group. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
 
 Email: zhecheng (at) pku (dot) edu (dot) cn
 
