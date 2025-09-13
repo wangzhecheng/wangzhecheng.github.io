@@ -4,8 +4,8 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_archive/
+  - /about_archive.html
 ---
 
 I am a Postdoctoral Researcher at Stanford University. 
