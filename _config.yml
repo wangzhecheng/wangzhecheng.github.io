@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhecheng Wang"
 title_separator          : "-"
 name                     : &name "Zhecheng Wang"
-description              : &description "AI for Sustainability"
+description              : &description "From Pixels to Insights"
 url                      : https://wangzhecheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangzhecheng.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhecheng Wang"
+  name             :
   avatar           : "zhecheng.jpg"
-  bio              : "AI for Sustainability"
-  location         : "Stanford, California"
+  bio              :
+  location         : "Peking University"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=l9y2HZYAAAAJ&hl=en"
-  email            :
+  email            : "zhecheng (at) pku (dot) edu (dot) cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
