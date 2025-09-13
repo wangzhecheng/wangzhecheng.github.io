@@ -16,9 +16,9 @@ I am an Assistant Professor (Boya Young Fellow) at the College of Urban and Envi
 Our current research thrusts include:
 
 * **Geospatial AI and information systems:** Multi-modal machine learning foundation models for geospatial data; geospatial reasoning; AI-enabled information access and decison support systems.
-* **Infrastructure-climate-human nexus:** Combining AI-based mapping, physics-based models, and social simulations to understand the emergent behaviors and spatial hetereogeneity of the infrastructure-climate-human coupled system.
+* **Infrastructure-climate-human nexus:** Combining AI-based mapping, physics-based models, and social simulations to understand the emergent phenomena and spatial hetereogeneity of the infrastructure-climate-human coupled system.
 
-Previously, I was a Human-Centered AI Postdoctoral Fellow at Stanford University. I obtained my PhD degree in Civil and Environmental Engineering with a PhD minor degree in Computer Science at Stanford, co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). I obtained my M.S. degree in Mechanical Engineering also from Stanford, and my Bachelor's degree from Tsinghua University. 
+Previously, I was a Human-Centered AI Postdoctoral Fellow at Stanford University. I obtained my PhD degree in Civil and Environmental Engineering with a PhD minor degree in Computer Science at Stanford, co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). I obtained my M.S. degree in Mechanical Engineering from Stanford, and my Bachelor's degree from Tsinghua University. 
 
 Email: zhecheng (at) pku (dot) edu (dot) cn
 
@@ -27,7 +27,7 @@ Recent News
 ======
 
 
-* **09/2025** Joining College of Urban and Environmental Sciences at Peking University as an Assistant Professor.
+* **09/2025** Joining the College of Urban and Environmental Sciences at Peking University as an Assistant Professor.
 
 
 * **07/2025** Gave a talk at the [MultiSector Dynamics (MSD)](https://multisectordynamics.org/) Community of Practice webinar.

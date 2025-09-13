@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Group"
+title: "Join Us"
 permalink: /group/
 author_profile: false
 ---
-
-Join Us
----------------
 
 <span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn), postdocs, and research assistants. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
 
