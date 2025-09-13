@@ -11,14 +11,14 @@ redirect_from:
 
 I am an Assistant Professor (Boya Young Fellow) at the College of Urban and Environmental Sciences at [Peking University](https://english.pku.edu.cn/). My research group focuses on **AI-enabled geo-informatics for sustainability**—integrating geospatial AI with physical principles and social theories to enable large-scale mapping and modeling of the interplay among infrastructure systems (e.g., energy infrastructure), climate threats, and human factors. Our goal is to (1) advance our understanding of the infrastructure-climate-human nexus and its spatial heterogeneity; (2) create next-generation information systems that transform raw pixels into actionable insights for accelerating decarbonization and improving climate resilience.
 
+<span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn) and postdocs. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
+
 Our current research thrusts include:
 
 * **Geospatial AI and information systems:** Multi-modal machine learning foundation models for geospatial data; geospatial reasoning; AI-enabled information access and decison support systems.
 * **Infrastructure-climate-human nexus:** Combining AI-based mapping, physics-based models, and social simulations to understand the emergent behaviors and spatial hetereogeneity of the infrastructure-climate-human coupled system.
 
 Previously, I was a Human-Centered AI Postdoctoral Fellow at Stanford University. I obtained my PhD degree in Civil and Environmental Engineering with a PhD minor degree in Computer Science at Stanford, co-advised by [Prof. Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Prof. Arun Majumdar](https://profiles.stanford.edu/arun-majumdar). I obtained my M.S. degree in Mechanical Engineering also from Stanford, and my Bachelor's degree from Tsinghua University. 
-
-<span style="color:red">**I am actively looking for PhD students (including one PhD student starting from 2026 Autumn) and postdocs. If you are interested, please email me with your CV and a brief summary of your research interests.**</span>
 
 Email: zhecheng (at) pku (dot) edu (dot) cn
 
