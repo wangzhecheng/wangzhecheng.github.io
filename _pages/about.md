@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor (Boya Young Fellow) at the College of Urban and Environmental Sciences at [Peking University](https://english.pku.edu.cn/). My research group focuses on **AI-enabled geoinformatics for sustainability**—integrating geospatial AI with physical principles and social theories to enable large-scale mapping and modeling of interplay among infrastructure systems (e.g., energy infrastructure), climate threats, and human factors. Our goal is to (1) advance our understanding of the infrastructure-climate-human nexus and its spatial heterogeneity; (2) create next-generation information systems to transform raw pixels into actionable insights for accelerating decarbonization and improving climate resilience.
+I am an Assistant Professor (Boya Young Fellow) at the College of Urban and Environmental Sciences at [Peking University](https://english.pku.edu.cn/). My research group focuses on **AI-enabled geo-informatics for sustainability**—integrating geospatial AI with physical principles and social theories to enable large-scale mapping and modeling of the interplay among infrastructure systems (e.g., energy infrastructure), climate threats, and human factors. Our goal is to (1) advance our understanding of the infrastructure-climate-human nexus and its spatial heterogeneity; (2) create next-generation information systems that transform raw pixels into actionable insights for accelerating decarbonization and improving climate resilience.
 
 Our current research thrusts include:
 
