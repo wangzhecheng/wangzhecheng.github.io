@@ -43,9 +43,10 @@ Other Publications
 ---------------
 
 * Tianyuan Huang, Chad Zanocco, **Zhecheng Wang**, Jackelyn Hwang, and Ram Rajagopal (2025). 
-Neighborhood Built Environment Disparities are Amplified During Extreme Weather Recovery. 
-Accepted in principle by **Nature**.
+Neighborhood Built Environment Disparities are Amplified During Extreme Weather Recovery. **Nature**. [(link)](https://doi.org/10.1038/s41586-025-09804-3)
 
+* **Zhecheng Wang** (2025). 
+Cost-Effective Adaptation of Electric Grids. **Nature Climate Change** (News & Views). [(link)](https://doi.org/10.1038/s41558-025-02421-y)
 
 * Tony Liu, Chad Zanocco, **Zhecheng Wang**, Tianyuan Huang, June Flora, and Ram Rajagopal (2025). 
 Large Language Model Enabled Knowledge Discovery of Building-Level Electrification Using Permit Data. 
